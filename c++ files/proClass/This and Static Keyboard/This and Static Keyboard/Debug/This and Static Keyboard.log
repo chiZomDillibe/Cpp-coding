@@ -1,0 +1,3 @@
+﻿  This and Static Keyboard.cpp
+C:\Users\pc\Desktop\Cpp-coding\c++ files\proClass\This and Static Keyboard\This and Static Keyboard\This and Static Keyboard.cpp(8,20): error C2512: 'rectangleClass': no appropriate default constructor available
+C:\Users\pc\Desktop\Cpp-coding\c++ files\proClass\This and Static Keyboard\This and Static Keyboard\rectangleClass.h(4,7): message : see declaration of 'rectangleClass'

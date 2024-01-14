@@ -1,0 +1,3 @@
+﻿  Casting.cpp
+C:\Users\pc\Desktop\Cpp-coding\c++ files\masterClass\Casting\Casting\Casting.cpp(14,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Casting.vcxproj -> C:\Users\pc\Desktop\Cpp-coding\c++ files\masterClass\Casting\Debug\Casting.exe
